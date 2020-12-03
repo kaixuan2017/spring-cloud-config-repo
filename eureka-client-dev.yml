@@ -1,2 +1,5 @@
 server:
   port: 1002
+
+info:
+  profile: dev
