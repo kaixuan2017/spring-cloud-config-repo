@@ -7,4 +7,4 @@ eureka:
       defaultZone: http://localhost:1001/eureka/ # 对应服务注册中心的配置内容，指定服务注册中心的位置
       
 info:
-  profile: dev
+  profile: dev11111
