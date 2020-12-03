@@ -1,2 +1,9 @@
-info:
-  profile: default
+server:
+  port: 1002
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1001/eureka/ # 对应服务注册中心的配置内容，指定服务注册中心的位置
+
+
